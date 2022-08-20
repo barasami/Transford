@@ -1,0 +1,32 @@
+
+
+export default [{
+    id:1,
+    Image:"../Images/syrange.jpg",
+    Title:"Quality Medicines",
+    Description:"We constantly Advice patients about medicines,how to take them and what reactions may occure"},
+    {id:2,
+    Image:"../Images/prescription.jpg",
+    Title:"Perform Checks",
+    Description:"We Ensure that prescribed medicines are suitable to patients."},
+    {id:3,
+    Image:"../Images/pharmacis2.png",
+    Title:"Qualified Pharmacists",
+    Description:"We have a rich net-work of doctors and qualified pharmacists whom we constantly communicate with and also refer patients to."},
+    {id:4,
+    Image:"../Images/pressure.jpg",
+    Title:"We Care",
+    Description:"We respond to patient symptoms and also advice on medication"},
+    {id:5,
+    Image:"../Images/pharmacist.jpg",
+    Title:"Excellent Guide",
+    Description:"We help customers through verbal guidance,where we guide them on correct dosage,best way to consume and potential side effects of drugs"},
+    {id:6,
+    Image:"../Images/patient.png",
+    Title:"Always There During Emergency",
+    Description:"We help patients who are in a health crisis and are not in a position to travel to clinic"},
+    {id:7,
+    Image:"../Images/thermo.jpg",
+    Title:"We Have A variety of Quality Drugs",
+    Description:"We in collaboration with our suppliers we ensure we have access to a variety of quality drugs."}
+]
