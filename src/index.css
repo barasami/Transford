@@ -55,7 +55,7 @@
 .Chemistname{
   color: #fff;
   justify-self: start;
-  margin-left: 20px;
+  margin-left: 2px;
   cursor: pointer;
   text-decoration: none;
   font-size: 2rem;
@@ -74,6 +74,15 @@
 .Nav-links:hover{
   color:goldenrod;
   transition: all 0.2s ease-out;
+}
+@media screen and (max-width:377px) {
+  .Chemistname{
+    display: none;
+    
+  }
+ 
+
+  
 }
 
 @media screen and (max-width: 960px) {
