@@ -4,7 +4,7 @@ export default [{
     id:1,
     Image:"../Images/syrange.jpg",
     Title:"Quality Medicines",
-    Description:"We constantly Advice patients about medicines,how to take them and what reactions may occure"},
+    Description:"We constantly Advice patients about medicines,how to take them and what reactions may occur"},
     {id:2,
     Image:"../Images/prescription.jpg",
     Title:"Perform Checks",
