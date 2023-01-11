@@ -1,4 +1,5 @@
 import React from "react";
+  const myYear=new Date().getFullYear()
   export default function Footer()
   {
     return(
@@ -8,7 +9,7 @@ import React from "react";
         </div>
         <hr className="hr"></hr>
         <div>
-          <p className="rights">&copy;Transford chemist 2022, all rights Reserved</p>
+          <p className="rights">&copy;Transford chemist {myYear}, all rights Reserved</p>
           <p className="mytexts">We Are here for you</p>
         </div>
       </div>

@@ -28,7 +28,7 @@ export default function Product()
         </Grid>
         )
         
-      })
+    })
     return(
         <div>
             <div className="Bannertwo">
